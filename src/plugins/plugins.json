@@ -45,7 +45,7 @@
       "repo": "oleeskild/garden-plugin-webmentions",
       "installedVersion": "1.0.0",
       "installedRef": "v1.0.0",
-      "installedAt": "2026-09-01T02:13:35.190Z",
+      "installedAt": "2026-09-01T04:00:56.842Z",
       "enabled": true,
       "files": [
         "src/plugins/webmentions/README.md",
