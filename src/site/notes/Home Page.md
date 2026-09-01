@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"1","created":"2026-08-31T01:32:21.864-05:00","updated":"2026-08-31T23:29:33.748-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"1","created":"2026-08-31T01:32:21.864-05:00","updated":"2026-09-01T00:23:50.381-05:00","dg-note-properties":{}}
 ---
 
 test deeze
+Welcome to the construction zone
 
 --- 
 ```
