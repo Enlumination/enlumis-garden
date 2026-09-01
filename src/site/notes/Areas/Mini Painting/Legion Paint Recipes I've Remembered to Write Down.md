@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/mini-painting/legion-paint-recipes-i-ve-remembered-to-write-down/","noteIcon":"1","created":"2026-09-01T00:24:23.970-05:00","updated":"2026-09-01T00:32:27.351-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/areas/mini-painting/legion-paint-recipes-i-ve-remembered-to-write-down/","noteIcon":"1","created":"2026-09-01T00:24:23.970-05:00","updated":"2026-09-01T00:38:48.220-05:00","dg-note-properties":{}}
 ---
 
 ## Aquas
@@ -16,8 +16,8 @@
 - 1:1 skeleton horde contrast diluted with contrast medium
 - drybrush skeleton bone  
 
----
-https://photos.app.goo.gl/WzjQoLZC8n8wsbjq9
+	---
+![image text](https://photos.app.goo.gl/4qzXFiHwW8uY6BxJA)`
 > [!NOTE] B2's
 > So many of these to do, an easy recipe was in order. 
 - Vallejo metal color Steel base coat with airbrush
