@@ -1,0 +1,25 @@
+{
+  "/": [
+    "Projects",
+    "Areas",
+    "Resources",
+    "Archives",
+    "test1",
+    "Welcome"
+  ],
+  "/Projects": [
+    "active projects"
+  ],
+  "/Areas": [
+    "3d Printing"
+  ],
+  "/Areas/3d Printing": [
+    "my 3d printer"
+  ],
+  "/Resources": [
+    "consolidated research"
+  ],
+  "/Archives": [
+    "Archive Home"
+  ]
+}
