@@ -1,11 +1,11 @@
 {
   "/": [
+    "Home Page",
+    "Welcome",
     "Projects",
     "Areas",
     "Resources",
-    "Archives",
-    "test1",
-    "Welcome"
+    "Archives"
   ],
   "/Projects": [
     "active projects"
