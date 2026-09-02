@@ -7,7 +7,14 @@ body {
         height: auto !important;
         object-fit: contain !important;
     }
-
+/* Ensure the custom footer stays in flow and has adequate clearance */
+footer {
+  position: relative !important;
+  clear: both !important;
+  padding: 2rem 0 !important;
+  margin-top: 3rem !important;
+  z-index: 10;
+}
     // background-color: white;
     // .content {
     //   font-size: 14px;
