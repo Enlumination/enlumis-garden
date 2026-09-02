@@ -1,12 +1,11 @@
-
 <!DOCTYPE html>
 <html lang="{{ meta.mainLanguage }}">
     <head>
-        <title>Nothing here</title>
+        <title>404: Lost in the Undergrowth</title>
         <link href="/styles/digital-garden-base.css" rel="stylesheet">
         {%-if meta.themeStyle%}
             <link href="/styles/obsidian-base.css" rel="stylesheet">
-    	    <link href="{{meta.themeStyle}}" rel="stylesheet">
+            <link href="{{meta.themeStyle}}" rel="stylesheet">
         {% else %}
             <link href="/styles/style.css" rel="stylesheet">
         {%endif%}
@@ -17,11 +16,14 @@
         <div class="content centered">
 
             {%-if not meta.themeStyle%}
-                <div class="font-bg"> &#x1F60E; </div>
+                <div class="font-bg"> 🌱 </div>
             {%endif%}
-            <h1>There is nothing here</h1>
-            <p>If you got here from a link, this note is probably not made public</p>
-            <a href="/">Go back home</a>
+            <h1>This seed hasn't sprouted yet</h1>
+            <p>Either this note is still locked away as an unpruned draft in my private vault, or you took pruning shears to the URL.</p>
+            <div style="display: flex; gap: 16px; justify-content: center; margin-top: 1.5rem; flex-wrap: wrap;">
+                <a href="/">Return to the garden gate</a>
+                <a href="/~random/">Wander into a random note</a>
+            </div>
         </div>
     </body>
 </html>
