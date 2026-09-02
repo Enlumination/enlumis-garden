@@ -1,12 +1,30 @@
+/* Center and constrain the reading container between sidebars */
+.content, 
+.markdown-preview-view,
+main {
+  width: 100% !important;
+  max-width: var(--dg-content-max-width, 720px) !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  box-sizing: border-box !important;
+  padding-left: 1.5rem !important;
+  padding-right: 1.5rem !important;
+}
+
+/* Reduce sidebar spacing so elements don't get shoved off-screen */
 body {
-    /* Ensure embedded images retain their natural aspect ratio */
-    .content img,
-    article img,
-    img {
-        max-width: 100% !important;
-        height: auto !important;
-        object-fit: contain !important;
-    }
+  --dg-content-max-width: 720px;
+  --dg-sidebar-gap: 30px;
+  --dg-filetree-gap: 30px;
+  --dg-sidebar-max-width: 280px;
+}
+
+/* Prevent tables and preformatted blocks from overflowing */
+table, 
+.table-wrapper {
+  max-width: 100% !important;
+  overflow-x: auto !important;
+}
 /* Ensure the custom footer stays in flow and has adequate clearance */
 footer {
   position: relative !important;
