@@ -1,20 +1,18 @@
 body {
-    /***
-/* Ensure embedded images retain their natural aspect ratio */
-.content img, 
-article img, 
-img {
-  max-width: 100% !important;
-  height: auto !important;
-  object-fit: contain !important;
-}
-    
-   ***/
-    //  background-color: white;
-    //  .content {
+    /* Ensure embedded images retain their natural aspect ratio */
+    .content img,
+    article img,
+    img {
+        max-width: 100% !important;
+        height: auto !important;
+        object-fit: contain !important;
+    }
+
+    // background-color: white;
+    // .content {
     //   font-size: 14px;
-    //  }
-    //  h1 {
+    // }
+    // h1 {
     //   color: black;
-    //  }
+    // }
 }
