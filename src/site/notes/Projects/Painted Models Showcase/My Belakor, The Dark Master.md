@@ -4,10 +4,10 @@
 
 Just gonna dump these images here and see what happens 
 
-![[PXL_20240623_200249322.jpg\|353]]
+![PXL_20240623_200249322.jpg\|353](/img/user/PXL_20240623_200249322.jpg)
 
-![[PXL_20240623_200237702.jpg\|353]]
+![PXL_20240623_200237702.jpg\|353](/img/user/PXL_20240623_200237702.jpg)
 how does the formatting look
-![[PXL_20240623_200326584.jpg\|362]]
+![PXL_20240623_200326584.jpg\|362](/img/user/PXL_20240623_200326584.jpg)
 
 Belakor, spent a very long time on him - went with a purple theme for a bit of Slaanesh flavor, which contrasted well i think. Belakor, spent a very long time on him - went with a purple theme for a bit of Slaanesh flavor, which contrasted well i think.
