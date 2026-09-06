@@ -1,0 +1,52 @@
+---
+{"dg-publish":true,"permalink":"/enlumis-garden/home-page/","tags":["gardenEntry"],"noteIcon":"1","created":"2026-09-05T22:54:44.047-05:00","updated":"2026-09-01T00:23:50.381-05:00","dg-note-properties":{}}
+---
+
+test deeze
+Welcome to the construction zone
+
+--- 
+```
+test
+```
+
+       This is your new *vault*.
+
+
+
+When you're ready, delete this note and make the vault your own.
+
+ [!TIP] Nested callouts
+> Text inside the tip callout
+> > [!EXAMPLE] Inner callout
+> > Multiple nesting layers
+> > > [!TODO] Inner inner callout
+
+
+$$\frac{1}{0} = \infty$$
+
+[^1]: footnote example
+
+
+
+ [ ] Uncheckd
+- [x] Checked
+
+> [!NOTE] Note title
+> Information
+
+
+
+
+
+[!WARNING] A warning
+> This is a warning
+
+
+
+
+[!NOTE]+ Open by default
+> Folding/Collapsable callout
+
+
+
