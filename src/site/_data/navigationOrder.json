@@ -1,23 +1,41 @@
 {
   "/": [
     "Home Page",
-    "Welcome",
     "Projects",
     "Areas",
     "Resources",
     "Archives"
   ],
   "/Projects": [
-    "active projects"
+    "Painted Models Showcase",
+    "Projects Home",
+    "Completed 3D Printed Projects"
+  ],
+  "/Projects/Painted Models Showcase": [
+    "My Belakor, The Dark Master"
   ],
   "/Areas": [
-    "3d Printing"
+    "3d Printing",
+    "Bonsai",
+    "Cybersecurity",
+    "Mini Painting"
   ],
   "/Areas/3d Printing": [
     "my 3d printer"
   ],
+  "/Areas/Bonsai": [
+    "Dwarf Jade",
+    "Fukien Tea Tree"
+  ],
+  "/Areas/Cybersecurity": [
+    "Cybersecurity"
+  ],
+  "/Areas/Mini Painting": [
+    "Legion Paint Recipes I've Remembered to Write Down"
+  ],
   "/Resources": [
-    "consolidated research"
+    "Resources Home",
+    "About Me"
   ],
   "/Archives": [
     "Archive Home"
