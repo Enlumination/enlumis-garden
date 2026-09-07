@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Home Page.md","permalink":"/home-page/","tags":["home","index","gardenEntry"],"noteIcon":"1","created":"2026-09-05T22:54:44.047-05:00","updated":"2026-09-07T15:21:04.763-05:00","dg-note-properties":{"tags":["home","index","gardenEntry"],"planted":"2026-09-07","last-tended":"2026-09-07","status":"🌱 Seedling"}}
+{"dg-publish":true,"dg-path":"Home Page.md","permalink":"/home-page/","tags":["home","index","gardenEntry"],"noteIcon":"1","created":"2026-09-05T22:54:44.047-05:00","updated":"2026-09-07T15:41:59.283-05:00","dg-note-properties":{"tags":["home","index","gardenEntry"],"planted":"2026-09-07","last-tended":"2026-09-07","status":"🌱 Seedling"}}
 ---
 
 
-> [!NOTE]+ Welcome to my digital corner of the internet
+ # Welcome to my digital corner of the internet
 > This is a living collection of ideas, notes, experiments of my hobbies and interests that will hopefully grow over time. 
 
 **Navigation**
