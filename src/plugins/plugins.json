@@ -74,6 +74,9 @@
         "timestampFormat": "MMM dd, yyyy h:mm ",
         "dateFormat": "MMM dd, yyyy"
       }
+    },
+    "dg-link-preview": {
+      "enabled": false
     }
   }
 }
