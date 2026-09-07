@@ -57,7 +57,15 @@
         "src/plugins/giscus-comments/README.md",
         "src/plugins/giscus-comments/garden-plugin.json",
         "src/plugins/giscus-comments/templates/comments.njk"
-      ]
+      ],
+      "settings": {
+        "repo": "Enlumination/enlumis-garden",
+        "repoId": "R_kgDOUJcPew",
+        "category": "Announcements",
+        "categoryId": "DIC_kwDOUJcPe84DFFv9",
+        "theme": "preferred_color_scheme",
+        "showByDefault": true
+      }
     },
     "dg-timestamps": {
       "settings": {
