@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Areas/Mini Painting/Legion Paint Recipes I've Remembered to Write Down.md","permalink":"/areas/mini-painting/legion-paint-recipes-i-ve-remembered-to-write-down/","noteIcon":"1","created":"2026-09-05T22:54:44.045-05:00","updated":"2026-09-01T00:46:10.235-05:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Areas/Mini Painting/Legion Paint Recipes I've Remembered to Write Down.md","permalink":"/areas/mini-painting/legion-paint-recipes-i-ve-remembered-to-write-down/","created":"2026-09-05T22:54:44.045-05:00","updated":"2026-09-01T00:46:10.235-05:00","dg-note-properties":{}}
 ---
 
 ## Aquas
