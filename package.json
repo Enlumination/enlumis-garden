@@ -32,25 +32,4 @@
   },
   "author": "",
   "license": "ISC"
-}{
-  "name": "web",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "prebuild": "rimraf dist",
-    "build:sass": "sass src/site/styles:dist/styles --style compressed",
-    "build:eleventy": "cross-env ELEVENTY_ENV=prod UV_THREADPOOL_SIZE=16 NODE_OPTIONS=--max-old-space-size=3072 eleventy",
-    "build": "npm-run-all get-theme --parallel build:*",
-    "start": "npm-run-all get-theme --parallel watch:*",
-    "watch:eleventy": "cross-env ELEVENTY_ENV=dev eleventy --serve",
-    "watch:sass": "sass src/site/styles:dist/styles --watch",
-    "get-theme": "node src/site/get-theme.js"
-  },
-  "engines": {
-    "node": "22.x"
-  },
-  "author": "",
-  "license": "ISC"
 }
