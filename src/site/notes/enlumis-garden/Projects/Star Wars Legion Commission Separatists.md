@@ -1,14 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"Projects/Star Wars Legion Commission Separatists.md","permalink":"/projects/star-wars-legion-commission-separatists/","dgShowToc":"true","created":"2026-09-07T21:28:19.815-05:00","updated":"2026-09-07T21:37:35.083-05:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Projects/Star Wars Legion Commission Separatists.md","permalink":"/projects/star-wars-legion-commission-separatists/","dgShowToc":"true","created":"2026-09-07T21:28:19.815-05:00","updated":"2026-09-07T21:40:56.856-05:00","dg-note-properties":{}}
 ---
 
 I'm doing a commission for a good friend. Here are the steps I've taken along the way:
 ## Aquas
 
+
+### Here are the colors used for these models:
 - Blue - Caribbean ocean x2 speed paint medium x3
-- Grey - Celestra grey no shade 
+- Gray - Celestra gray no shade 
 - Metallic: 1 drop silver 3 drops steel
-- Black: German grey, oblivion black wash, cold corpse blue light layers 
+- Black: Vallejo German Gray, oblivion black wash, cold corpse blue light layers 
 - Eyes: spiritstone red 
 
 ## B1's
