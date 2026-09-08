@@ -90,6 +90,9 @@
         "src/plugins/copy-code-button/styles/copy.scss",
         "src/plugins/copy-code-button/templates/copy.njk"
       ]
+    },
+    "dg-filetree": {
+      "enabled": false
     }
   }
 }
