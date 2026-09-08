@@ -43,7 +43,7 @@
         "src/plugins/recently-tended/templates/list.njk"
       ],
       "settings": {
-        "heading": "Recently tended",
+        "heading": "Recently Edited",
         "count": 3
       }
     },
