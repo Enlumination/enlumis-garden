@@ -92,7 +92,7 @@
       ]
     },
     "dg-filetree": {
-      "enabled": false
+      "enabled": true
     },
     "moc-nav": {
       "repo": "oleeskild/garden-plugin-moc-nav",
