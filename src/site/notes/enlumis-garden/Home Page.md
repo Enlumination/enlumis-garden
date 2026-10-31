@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/enlumis-garden/home-page/","tags":["home","index","gardenEntry"],"noteIcon":"","created":"2026-09-05T22:54:44.047-05:00","updated":"2026-10-30T20:26:39.499-05:00","dg-note-properties":{"tags":["home","index","gardenEntry"],"planted":"2026-09-07","last-tended":"2026-10-30","status":"growing"}}
+{"dg-publish":true,"permalink":"/enlumis-garden/home-page/","tags":["home","index","gardenEntry"],"noteIcon":"","created":"2026-09-05T22:54:44.047-05:00","updated":"2026-10-31T08:31:00.435-05:00","dg-note-properties":{"tags":["home","index","gardenEntry"],"planted":"2026-09-07","last-tended":"2026-10-30","status":"growing"}}
 ---
 
 # Welcome to Enlumi's Garden
@@ -16,7 +16,7 @@ This site is my public working notebook and technical portfolio. I use it to doc
 - 📄 **[View My Resume](https://drive.google.com/file/d/1opD1wnKdQsCMv7qPgQ2Jh_5ul51Xr7Wh/view?usp=sharing)**
 - 👤 **[[enlumis-garden/Resources/About Me\|About Me]]:** Background, technical stack, education, and contact details
 - 💻 **[GitHub Profile](https://github.com/Enlumination)**
-- 📷 **[Enlumi Studios](https://studio.enlumi.net):** Event and portrait photography portfolio <WIP>
+- 📷 **[Enlumi Studios](https://studio.enlumi.net):** Event and portrait photography portfolio 
 
 ---
 
