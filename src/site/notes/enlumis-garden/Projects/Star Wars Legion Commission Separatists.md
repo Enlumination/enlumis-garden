@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/enlumis-garden/projects/star-wars-legion-commission-separatists/","dgShowToc":"true","noteIcon":"","created":"2026-09-07T21:28:19.815-05:00","updated":"2026-10-30T01:20:15.874-05:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Projects/Star Wars Legion Commission Separatists.md","permalink":"/projects/star-wars-legion-commission-separatists/","dgShowToc":"true","noteIcon":"","updated":"2026-10-30T01:20:15.874-05:00","dg-note-properties":{}}
 ---
 
 I'm doing a commission for a good friend. Here are the steps I've documented along the way:

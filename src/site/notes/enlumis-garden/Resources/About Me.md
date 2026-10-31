@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/enlumis-garden/resources/about-me/","noteIcon":"","created":"2026-09-07T15:44:58.423-05:00","updated":"2026-10-31T08:33:05.925-05:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Resources/About Me.md","permalink":"/resources/about-me/","noteIcon":"","updated":"2026-10-31T08:33:05.925-05:00","dg-note-properties":{}}
 ---
 
 

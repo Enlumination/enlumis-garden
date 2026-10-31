@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/enlumis-garden/areas/bonsai/spruce/","noteIcon":"","created":"2026-09-07T17:36:01.662-05:00","updated":"2026-09-07T17:36:31.061-05:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Areas/Bonsai/Spruce.md","permalink":"/areas/bonsai/spruce/","noteIcon":"","updated":"2026-09-07T17:36:31.061-05:00","dg-note-properties":{}}
 ---
 
 
