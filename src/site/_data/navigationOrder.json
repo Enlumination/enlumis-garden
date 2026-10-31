@@ -1,0 +1,43 @@
+{
+  "/": [
+    "Home Page",
+    "Projects",
+    "Archives",
+    "Resources",
+    "Areas",
+    "Showcases"
+  ],
+  "/Projects": [
+    "Star Wars Legion Commission Separatists"
+  ],
+  "/Archives": [
+    "Archive Home"
+  ],
+  "/Resources": [
+    "About Me",
+    "Budgeting",
+    "Cybersecurity Resources I've Found Useful",
+    "Resources Home"
+  ],
+  "/Areas": [
+    "3d Printing",
+    "Bonsai"
+  ],
+  "/Areas/3d Printing": [
+    "my 3d printer"
+  ],
+  "/Areas/Bonsai": [
+    "Dwarf Jade",
+    "Fukien Tea Tree",
+    "Hardy Orange",
+    "Juniper",
+    "Maple",
+    "Oak",
+    "Spruce",
+    "Sweetgum",
+    "Wisteria"
+  ],
+  "/Showcases": [
+    "My Belakor, The Dark Master"
+  ]
+}
