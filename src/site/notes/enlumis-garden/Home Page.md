@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"Home Page.md","permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-10-31T08:34:23.587-05:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Home Page.md","permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-10-31T08:42:58.013-05:00","dg-note-properties":{}}
 ---
 
 
 # Welcome to Enlumi's Garden
 
-> **"A defensible process makes assumptions, owners, evidence, and decisions visible at every step."**
+> **"Insert witty, thought provoking quote here." - Ethan**
 
-I'm 2 **Ethan Colman**, a cybersecurity student completing my Associate of Science at [Lone Star College](https://www.lonestar.edu/), systems builder, and maker based in Southeast Texas.
+I'm **Ethan Colman**, a cybersecurity student completing my Associate of Science at [Lone Star College](https://www.lonestar.edu/), systems builder, and maker based in Southeast Texas.
 
 This site is my public working notebook and technical portfolio. I use it to document security architecture, home lab infrastructure, network engineering notes, and hands-on fabrication projects as they evolve.
 
