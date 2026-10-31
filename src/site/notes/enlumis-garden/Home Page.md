@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home Page.md","permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-10-31T08:51:03.508-05:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Home Page.md","permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-10-31T08:55:31.513-05:00","dg-note-properties":{}}
 ---
 
 
@@ -17,7 +17,7 @@ This site is my public working notebook and technical portfolio.
 - 📄 **[View My Resume](https://drive.google.com/file/d/1opD1wnKdQsCMv7qPgQ2Jh_5ul51Xr7Wh/view?usp=sharing)**
 - 👤 **[[enlumis-garden/Resources/About Me\|About Me]]:** Background, technical stack, education, and contact details
 - 💻 **[GitHub Profile](https://github.com/Enlumination)**
-- 📷 **[Enlumi Studios](https://studio.enlumi.net):** Event and portrait photography portfolio <WIP>
+- 📷 **[Enlumi Studios](https://studio.enlumi.net):** Event and portrait photography portfolio 
 
 ---
 
