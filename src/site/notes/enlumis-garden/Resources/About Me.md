@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Resources/About Me.md","permalink":"/resources/about-me/","noteIcon":"","updated":"2026-10-31T08:33:05.925-05:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Resources/About Me.md","permalink":"/resources/about-me/","noteIcon":"","updated":"2026-10-31T08:53:22.195-05:00","dg-note-properties":{}}
 ---
 
 
@@ -10,16 +10,10 @@
 
 I'm **Ethan Colman**, a cybersecurity student based in Southeast Texas completing my Associate of Science in Cybersecurity at **[Lone Star College](https://www.lonestar.edu/)** (Fall 2026).
 
-I built this digital garden as an open documentation hub for my technical projects, network and security study notes, home lab architecture, and creative work.e
+I built this digital garden as an open documentation hub for my technical projects, network and security study notes, home lab architecture, and creative work.
 
 ---
 
-## Professional Focus
-
-- **SOC Architecture & Incident Response:** Designing defensible detection pipelines, mapping telemetry requirements, building incident escalation workflows, and translating technical risk into executive roadmaps.
-- **Network Security & Routing:** Network segmentation, VLANs, OSPF, firewall policy design, and packet-level traffic analysis using Wireshark.
-- **Systems Administration & Self-Hosting:** Managing daily-driver Fedora Linux workstations, Proxmox VE hypervisors, TrueNAS SCALE networked storage, Docker application stacks, and encrypted mesh networking.
-- **Defensive Labs & Scripting:** OverTheWire Bandit wargames, Python and Bash automation, REST API integration, and reproducible Git workflows.
 
 ### Education & Background
 - **Degree:** Associate of Science in Cybersecurity, *Lone Star College* (Fall 2026)
@@ -29,12 +23,11 @@ I built this digital garden as an open documentation hub for my technical projec
 
 ## Technical Toolkit
 
-| Domain | Tools, Platforms & Protocols |
-| :--- | :--- |
-| **Security & Defense** | SOC Implementation Roadmaps, Incident Response Playbooks, SIEM Telemetry Design, Risk Management Frameworks |
-| **Networking & Traffic** | TCP/IP, OSI Model, Subnetting, VLANs, OSPF, Pi-hole DNS, Tailscale Mesh VPN, Wireshark |
-| **Systems & Infrastructure** | Fedora Linux, Debian, Proxmox VE, TrueNAS SCALE (NFS), Docker, Git, Vercel |
-| **Scripting & Dev** | Python, Bash, REST APIs, JSON, Markdown / Eleventy (11ty) |
+| Domain                       | Tools, Platforms & Protocols                                                                                |
+| :--------------------------- | :---------------------------------------------------------------------------------------------------------- |
+| **Networking & Traffic**     | TCP/IP, OSI Model, Subnetting, VLANs, OSPF, Pi-hole DNS, Tailscale Mesh VPN, Wireshark                      |
+| **Systems & Infrastructure** | Fedora Linux, Debian, Proxmox VE, TrueNAS SCALE (NFS), Docker, Git, Vercel                                  |
+| **Scripting & Dev**          | Python, Bash, REST APIs, JSON, Markdown / Eleventy (11ty)                                                   |
 
 ---
 
@@ -51,7 +44,7 @@ Hands-on technical work pairs naturally with patient, detail-oriented craft. Out
 
 ## Connect With Me
 
-- 📄 **[Resume](https://drive.google.com/file/d/1opD1wnKdQsCMv7qPgQ2Jh_5ul51Xr7Wh/view?usp=sharing)**
+- 📄 **[Resume](https://drive.google.com/file/d/1s95yHUEOT14EkHjMXoJn__9xWPwcq3Z7/view?usp=sharing)**
 - 💻 **GitHub:** [github.com/Enlumination](https://github.com/Enlumination)
 - 💼 **LinkedIn:** [linkedin.com/in/ethan-colman](https://www.linkedin.com/in/ethan-colman/)
 - ✉️ **Email:** [ethan@enlumi.net](mailto:ethan@enlumi.net)
