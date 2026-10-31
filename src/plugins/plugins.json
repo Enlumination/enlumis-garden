@@ -42,26 +42,6 @@
         "src/plugins/garden-stats/templates/stats.njk"
       ]
     },
-    "giscus-comments": {
-      "repo": "oleeskild/garden-plugin-giscus-comments",
-      "installedVersion": "1.0.0",
-      "installedRef": "v1.0.0",
-      "installedAt": "2026-10-31T13:39:47.336Z",
-      "enabled": true,
-      "files": [
-        "src/plugins/giscus-comments/README.md",
-        "src/plugins/giscus-comments/garden-plugin.json",
-        "src/plugins/giscus-comments/templates/comments.njk"
-      ],
-      "settings": {
-        "repo": "https://github.com/Enlumination/enlumis-garden",
-        "repoId": "_kgDOVeIeTw",
-        "category": "Announcements",
-        "categoryId": "IC_kwDOVeIeT84DKFk-",
-        "theme": "preferred_color_scheme",
-        "showByDefault": true
-      }
-    },
     "rounded-images": {
       "repo": "oleeskild/garden-plugin-rounded-images",
       "installedVersion": "1.0.0",
