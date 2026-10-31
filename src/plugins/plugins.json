@@ -52,7 +52,15 @@
         "src/plugins/giscus-comments/README.md",
         "src/plugins/giscus-comments/garden-plugin.json",
         "src/plugins/giscus-comments/templates/comments.njk"
-      ]
+      ],
+      "settings": {
+        "repo": "https://github.com/Enlumination/enlumis-garden",
+        "repoId": "_kgDOVeIeTw",
+        "category": "Announcements",
+        "categoryId": "IC_kwDOVeIeT84DKFk-",
+        "theme": "noborder_dark",
+        "showByDefault": true
+      }
     },
     "rounded-images": {
       "repo": "oleeskild/garden-plugin-rounded-images",
