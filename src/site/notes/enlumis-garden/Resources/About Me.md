@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Resources/About Me.md","permalink":"/resources/about-me/","noteIcon":"","updated":"2026-10-31T23:47:23.691-05:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Resources/About Me.md","permalink":"/resources/about-me/","noteIcon":"","updated":"2026-11-01T00:20:46.904-05:00","dg-note-properties":{}}
 ---
 
 # About Me
 
-Hi, I'm **Ethan Colman**.
+Hi, I'm **Ethan Blackthorne**.
 
 I'm a cybersecurity student, systems builder, maker, and photographer based in Southeast Texas. I have a lot of different interests, ranging from technology, to miniature painting, and this digital garden is my way of slowly putting them all together in one place.
 
