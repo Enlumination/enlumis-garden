@@ -1,25 +1,24 @@
 ---
-{"dg-publish":true,"dg-path":"Showcases/My Alarielle the Everqueen.md","permalink":"/showcases/my-alarielle-the-everqueen/","noteIcon":"","updated":"2026-10-31T09:55:46.746-05:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Showcases/My Alarielle the Everqueen.md","permalink":"/showcases/my-alarielle-the-everqueen/","noteIcon":"","updated":"2026-10-31T17:49:34.313-05:00","dg-note-properties":{}}
 ---
 
 This one is definitely my magnum opus - so far. I spent an untold amount of time making this model
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 1.5rem 0;">
-  <img src="https://i.imghippo.com/files/LxmH2410yC.jpg" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;" />
-  <img src="https://i.imghippo.com/files/LxmH2410yC.jpg" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;" />
-  <img src="https://i.imghippo.com/files/LxmH2410yC.jpg" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;" />
-  <img src="https://i.imghippo.com/files/LxmH2410yC.jpg" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;" />
-  <img src="https://i.imghippo.com/files/LxmH2410yC.jpg" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;" />
-  <img src="https://i.imghippo.com/files/LxmH2410yC.jpg" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;" />
-  <img src="https://i.imghippo.com/files/LxmH2410yC.jpg" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;" />
-  <img src="https://i.imghippo.com/files/LxmH2410yC.jpg" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;" />
-  <img src="https://i.imghippo.com/files/LxmH2410yC.jpg" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;" />
-</div>
+
+
 <img src="https://i.imghippo.com/files/jic5041SOY.jpg" alt="Image" />
+
 <img src="https://i.imghippo.com/files/luUz4377Rt.jpg" alt="Image" />
+
 <img src="https://i.imghippo.com/files/JRWl4204CU.jpg" alt="Image" />
+
 <img src="https://i.imghippo.com/files/oe7761C.jpg" alt="Image" />
+
 <img src="https://i.imghippo.com/files/Ra9796mc.jpg" alt="Image" />
+
 <img src="https://i.imghippo.com/files/WbM3671vUI.jpg" alt="Image" />
+
 <img src="https://i.imghippo.com/files/idMo6574Dg.jpg" alt="Image" />
+
 <img src="https://i.imghippo.com/files/Uq5547NI.jpg" alt="Image" />
+
