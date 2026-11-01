@@ -24,7 +24,7 @@ This space is my digital garden - a public working notebook, a place to document
 
 # Tech & Infrastructure
 
-- **[[Home Lab Architecture\|Home Lab Architecture]]:** A self-hosted network environment I built for everyday utility, giving reclaimed e-waste a second life
+- **[[enlumis-garden/Resources/Home Lab Architecture\|Home Lab Architecture]]:** A self-hosted network environment I built for everyday utility, giving reclaimed e-waste a second life
   - **The Foundation:** Running **Proxmox VE** for virtualization and **TrueNAS** for centralized storage using permission-based NFS shares.
   - **The Services:** Tied together with a **Tailscale** mesh network for secure remote access, hosting **Vaultwarden** for password management and **Home Assistant** for smart home automation.
 

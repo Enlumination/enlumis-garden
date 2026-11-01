@@ -1,50 +1,35 @@
 ---
-{"dg-publish":true,"dg-path":"Resources/About Me.md","permalink":"/resources/about-me/","noteIcon":"","updated":"2026-10-31T08:53:22.195-05:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Resources/About Me.md","permalink":"/resources/about-me/","noteIcon":"","updated":"2026-10-31T23:47:23.691-05:00","dg-note-properties":{}}
 ---
 
-
-- 
 # About Me
 
-> **Cybersecurity Student | Security Architecture & Systems | Maker & Cultivator**
+Hi, I'm **Ethan Colman**.
 
-I'm **Ethan Colman**, a cybersecurity student based in Southeast Texas completing my Associate of Science in Cybersecurity at **[Lone Star College](https://www.lonestar.edu/)** (Fall 2026).
+I'm a cybersecurity student, systems builder, maker, and photographer based in Southeast Texas. I have a lot of different interests, ranging from technology, to miniature painting, and this digital garden is my way of slowly putting them all together in one place.
 
-I built this digital garden as an open documentation hub for my technical projects, network and security study notes, home lab architecture, and creative work.
+### Education & Career Focus
 
----
+I am currently completing my Associate of Science in Cybersecurity at [Lone Star College](https://www.lonestar.edu/ "null"),  My technical interests lean heavily into self-hosting, tinkering with recycled computer parts, and I prefer hands-on learning, which is why I spend a lot of time building and maintaining my own server environments out of reclaimed hardware.
 
+### What I Do
 
-### Education & Background
-- **Degree:** Associate of Science in Cybersecurity, *Lone Star College* (Fall 2026)
-- **Leadership:** Eagle Scout
+- **Cybersecurity & IT:** I manage a home lab built from repurposed e-waste, running Proxmox, TrueNAS, and a suite of self-hosted services all connected securely via Tailscale.
+    
+- **Photography:** Through [Enlumi Studios](https://studio.enlumi.net "null"), I occasionally shoot event and portrait photography.
+    
+- **Fabrication & 3D Printing:** I tinker with a Sovol SV06 3D printer, mostly used for printing storage bins for all of my ever-expanding random tools I acquire, as well as random commission prints for friends and family. I also loosely have an interest in soldering and electronics repair.
+    
+- **Miniature Art:** I'm an avid miniature painter and commission artist. I particularly like layering, glazing, and clean line-work.  Some of my favorite projects include Warhammer centerpieces like:  
+    Alarielle, Be'lakor, Archaon,  
+    and as well as an (in progress commission)  Star Wars Legion army.
+    
+- **Bonsai:** I also cultivate Bonsai trees, ranging from Dwarf Jade to Juniper
 
----
+### Get in Touch
 
-## Technical Toolkit
-
-| Domain                       | Tools, Platforms & Protocols                                                                                |
-| :--------------------------- | :---------------------------------------------------------------------------------------------------------- |
-| **Networking & Traffic**     | TCP/IP, OSI Model, Subnetting, VLANs, OSPF, Pi-hole DNS, Tailscale Mesh VPN, Wireshark                      |
-| **Systems & Infrastructure** | Fedora Linux, Debian, Proxmox VE, TrueNAS SCALE (NFS), Docker, Git, Vercel                                  |
-| **Scripting & Dev**          | Python, Bash, REST APIs, JSON, Markdown / Eleventy (11ty)                                                   |
-
----
-
-## Outside of Tech
-
-Hands-on technical work pairs naturally with patient, detail-oriented craft. Outside of security and systems administration, I focus on:
-
-- **Bonsai Cultivation:** Styling, wiring, and managing structural trunk reductions across Bald Cypress, Shortleaf Pine, Japanese Bloodgood Maple, Dwarf Jade, Fukien Tea, Wisteria, and Hardy Orange specimens.
-- **Miniature Painting:** Airbrushing, glazing, and magnetizing tabletop miniatures (Warhammer Age of Sigmar, Warhammer 40k, and Star Wars: Legion commissions).
-- **3D Printing:** Designing and printing functional PETG parts on a modified Sovol SV06.
-- **Photography:** Event and portrait photography under **[Enlumi Studios](https://studio.enlumi.net)**, managing RAW development and asset workflows in Darktable and digiKam.
-
----
-
-## Connect With Me
-
-- 📄 **[Resume](https://drive.google.com/file/d/1s95yHUEOT14EkHjMXoJn__9xWPwcq3Z7/view?usp=sharing)**
-- 💻 **GitHub:** [github.com/Enlumination](https://github.com/Enlumination)
-- 💼 **LinkedIn:** [linkedin.com/in/ethan-colman](https://www.linkedin.com/in/ethan-colman/)
-- ✉️ **Email:** [ethan@enlumi.net](mailto:ethan@enlumi.net)
+- [**LinkedIn**](https://www.linkedin.com/in/ethan-colman/ "null")
+    
+-  [**Resume**](https://drive.google.com/file/d/1opD1wnKdQsCMv7qPgQ2Jh_5ul51Xr7Wh/view?usp=sharing "null")
+    
+- [**Enlumi Studios**](https://studio.enlumi.net "null") (This is just linked here so I remember to do it someday)
