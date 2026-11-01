@@ -1,10 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home Page.md","permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-10-31T22:53:27.875-05:00","dg-note-properties":{}}
----
-
----
-dg-publish: true
-dg-home: true
+{"dg-publish":true,"dg-path":"Home Page.md","permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-11-01T00:35:15.946-05:00","dg-note-properties":{}}
 ---
 
 #  Welcome to Enlumi's Garden
