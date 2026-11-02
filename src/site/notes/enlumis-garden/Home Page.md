@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home Page.md","permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-11-01T00:35:15.946-05:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Home Page.md","permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-11-01T00:37:52.858-05:00","dg-note-properties":{}}
 ---
 
 #  Welcome to Enlumi's Garden
@@ -20,14 +20,14 @@ This space is my digital garden - a public working notebook, a place to document
 # Tech & Infrastructure
 
 - **[[enlumis-garden/Resources/Home Lab Architecture\|Home Lab Architecture]]:** A self-hosted network environment I built for everyday utility, giving reclaimed e-waste a second life
-  - **The Foundation:** Running **Proxmox VE** for virtualization and **TrueNAS** for centralized storage using permission-based NFS shares.
-  - **The Services:** Tied together with a **Tailscale** mesh network for secure remote access, hosting **Vaultwarden** for password management and **Home Assistant** for smart home automation.
+  - Running Proxmox VE for virtualization and TrueNAS for centralized storage using permission-based NFS shares. 
+  - Tied together with a Tailscale mesh network for secure remote access, hosting Vaultwarden for password management and Home Assistant for smart home automation.
 
 # Miniatures, Making & Fabrication
 
 When I'm not studying or tinkering with servers, I'm usually building, painting, or printing something. 
 
-- **[[Alarielle the Everqueen\|Alarielle the Everqueen]]**
-- **[[Be'lakor, The Dark Master\|Be'lakor, The Dark Master]]**
-- **[[Archaon, The Everchosen\|Archaon, The Everchosen]]**
+- **[[enlumis-garden/Showcases/My Alarielle the Everqueen\|My Alarielle the Everqueen]]**
+- **[[enlumis-garden/Showcases/My Belakor, The Dark Master\|My Belakor, The Dark Master]]**
+- **[[enlumis-garden/Archaon, The Everchosen\|Archaon, The Everchosen]]**
 - **[[enlumis-garden/Projects/Star Wars Legion Commission Separatists\|Star Wars Legion Commission Separatists]]**
