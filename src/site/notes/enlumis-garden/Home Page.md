@@ -29,5 +29,5 @@ When I'm not studying or tinkering with servers, I'm usually building, painting,
 
 - **[[enlumis-garden/Showcases/My Alarielle the Everqueen\|My Alarielle the Everqueen]]**
 - **[[enlumis-garden/Showcases/My Belakor, The Dark Master\|My Belakor, The Dark Master]]**
-- **[[enlumis-garden/Archaon, The Everchosen\|Archaon, The Everchosen]]**
+- **[[enlumis-garden/Showcases/Archaon, The Everchosen\|Archaon, The Everchosen]]**
 - **[[enlumis-garden/Projects/Star Wars Legion Commission Separatists\|Star Wars Legion Commission Separatists]]**
