@@ -88,7 +88,7 @@
       ]
     },
     "dg-filetree": {
-      "enabled": false
+      "enabled": true
     },
     "image-lightbox": {
       "repo": "oleeskild/garden-plugin-image-lightbox",
