@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home Page.md","permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-11-04T00:02:24.803-06:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Home Page.md","permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-11-04T00:05:15.695-06:00","dg-note-properties":{}}
 ---
 
 #  Welcome to Enlumi's Garden
@@ -25,7 +25,7 @@ This space is my digital garden - a public working notebook, a place to document
 
 # Miniatures, Making & Fabrication
 
-When I'm not studying or tinkering with servers, I'm usually building, painting, or printing something. 
+When I'm not studying, working, or tinkering with servers, I'm usually building, painting, or printing something. 
 
 - **[[enlumis-garden/Showcases/My Alarielle the Everqueen\|My Alarielle the Everqueen]]**
 - **[[enlumis-garden/Showcases/My Belakor, The Dark Master\|My Belakor, The Dark Master]]**
