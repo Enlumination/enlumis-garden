@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home Page.md","permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-11-01T00:37:52.858-05:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Home Page.md","permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-11-04T00:02:24.803-06:00","dg-note-properties":{}}
 ---
 
 #  Welcome to Enlumi's Garden
@@ -19,7 +19,7 @@ This space is my digital garden - a public working notebook, a place to document
 
 # Tech & Infrastructure
 
-- **[[enlumis-garden/Resources/Home Lab Architecture\|Home Lab Architecture]]:** A self-hosted network environment I built for everyday utility, giving reclaimed e-waste a second life
+- **Home Lab Architecture:** A self-hosted network environment I built for everyday utility, giving reclaimed e-waste a second life
   - Running Proxmox VE for virtualization and TrueNAS for centralized storage using permission-based NFS shares. 
   - Tied together with a Tailscale mesh network for secure remote access, hosting Vaultwarden for password management and Home Assistant for smart home automation.
 
