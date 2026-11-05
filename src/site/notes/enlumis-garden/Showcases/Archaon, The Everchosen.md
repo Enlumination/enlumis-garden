@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Showcases/Archaon, The Everchosen.md","permalink":"/showcases/archaon-the-everchosen/","noteIcon":"","updated":"2026-11-04T22:26:01.022-06:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Showcases/Archaon, The Everchosen.md","permalink":"/showcases/archaon-the-everchosen/","noteIcon":"","updated":"2026-11-05T06:56:43.163-06:00","dg-note-properties":{}}
 ---
 
-![PXL_20260104_221758609_MP1.jpg](/img/user/PXL_20260104_221758609_MP1.jpg)Archaeon pictures coming soon
+Archaeon pictures coming soon
 ![](https://res.cloudinary.com/e5qnceqm/image/upload/v1793852540/null/ddaj75xxyoqlffwkbnjz.jpg)
 
 ![](https://res.cloudinary.com/e5qnceqm/image/upload/v1793852546/null/apukuiiv8t0r4gusf1pk.jpg)
