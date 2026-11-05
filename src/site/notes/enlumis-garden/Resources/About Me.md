@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Resources/About Me.md","permalink":"/resources/about-me/","noteIcon":"","updated":"2026-11-04T23:22:02.385-06:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Resources/About Me.md","permalink":"/resources/about-me/","noteIcon":"","updated":"2026-11-04T23:22:58.786-06:00","dg-note-properties":{}}
 ---
 
 # About Me
@@ -20,7 +20,7 @@ I am currently completing my Associate of Science in Cybersecurity at [Lone Star
     
 - **Fabrication & 3D Printing:** I tinker with a Sovol SV06 3D printer, mostly used for printing storage bins for all of my ever-expanding random tools I acquire, as well as random commission prints for friends and family. I also loosely have an interest in soldering and electronics repair.
     
-- **Miniature Art & Showcases:** I'm an avid miniature painter and commission artist. I particularly like layering, glazing, and clean line-work. I seem to have a proclivity towards large models and character showcases. 
+- **Miniature Art & Showcases:** I'm an avid miniature painter and commission artist. I particularly like layering, glazing, and clean line-work. I also seem to have a proclivity towards large models and character showcases. 
 
   **Warhammer Centerpieces:**
   - [[enlumis-garden/Showcases/My Alarielle the Everqueen\|My Alarielle the Everqueen]]
