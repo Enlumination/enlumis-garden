@@ -1,21 +1,39 @@
 ---
-{"dg-publish":true,"dg-path":"Showcases/Archaon, The Everchosen.md","permalink":"/showcases/archaon-the-everchosen/","noteIcon":"","updated":"2026-11-04T20:35:34.009-06:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Showcases/Archaon, The Everchosen.md","permalink":"/showcases/archaon-the-everchosen/","noteIcon":"","updated":"2026-11-04T22:26:01.022-06:00","dg-note-properties":{}}
 ---
 
-Archaeon pictures coming soon
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin: 1.5rem 0;">
-  <img src="https://i.imghippo.com/files/ycP3350g.jpg" alt="Gallery photo 1" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 6px; object-fit: cover;" />
-  <img src="https://i.imghippo.com/files/Nuhe5861yUw.jpg" alt="Gallery photo 2" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 6px; object-fit: cover;" />
-  <img src="https://i.imghippo.com/files/iHC1152is.jpg" alt="Gallery photo 3" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 6px; object-fit: cover;" />
-  <img src="https://i.imghippo.com/files/uQK7443X.jpg" alt="Gallery photo 4" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 6px; object-fit: cover;" />
-  <img src="https://i.imghippo.com/files/AHEi8965vBI.jpg" alt="Gallery photo 5" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 6px; object-fit: cover;" />
-  <img src="https://i.imghippo.com/files/iAq7999RVg.jpg" alt="Gallery photo 6" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 6px; object-fit: cover;" />
-  <img src="https://i.imghippo.com/files/APJ4486AU.jpg" alt="Gallery photo 7" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 6px; object-fit: cover;" />
-  <img src="https://i.imghippo.com/files/CgD4660Q.jpg" alt="Gallery photo 8" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 6px; object-fit: cover;" />
-  <img src="https://i.imghippo.com/files/Iay7086LFY.jpg" alt="Gallery photo 9" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 6px; object-fit: cover;" />
-  <img src="https://i.imghippo.com/files/Mqj2096Ru.jpg" alt="Gallery photo 10" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 6px; object-fit: cover;" />
-  <img src="https://i.imghippo.com/files/oIl3058k.jpg" alt="Gallery photo 11" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 6px; object-fit: cover;" />
-  <img src="https://i.imghippo.com/files/H6667DNc.jpg" alt="Gallery photo 12" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 6px; object-fit: cover;" />
-  <img src="https://i.imghippo.com/files/gOKc5845Oo.jpg" alt="Gallery photo 13" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 6px; object-fit: cover;" />
-  <img src="https://i.imghippo.com/files/lBW9972Gpo.jpg" alt="Gallery photo 14" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 6px; object-fit: cover;" />
-</div>
+![PXL_20260104_221758609_MP1.jpg](/img/user/PXL_20260104_221758609_MP1.jpg)Archaeon pictures coming soon
+![](https://res.cloudinary.com/e5qnceqm/image/upload/v1793852540/null/ddaj75xxyoqlffwkbnjz.jpg)
+
+![](https://res.cloudinary.com/e5qnceqm/image/upload/v1793852546/null/apukuiiv8t0r4gusf1pk.jpg)
+
+![](https://res.cloudinary.com/e5qnceqm/image/upload/v1793852550/null/cab4bdexe0fq2l0gmvrh.jpg)
+
+![](https://res.cloudinary.com/e5qnceqm/image/upload/v1793852552/null/afuks0yperimcjlvq0fo.jpg)
+
+![](https://res.cloudinary.com/e5qnceqm/image/upload/v1793852575/null/ogh4wh8ihu4hatlvhf5b.jpg)
+
+![](https://res.cloudinary.com/e5qnceqm/image/upload/v1793852566/null/bvqk5epmbqnaknrkkdrw.jpg)
+
+![](https://res.cloudinary.com/e5qnceqm/image/upload/v1793852609/null/bmnzmsrapdltjngvdygs.jpg)
+
+upgrades to the base to a custom lava one 1 year later
+![](https://res.cloudinary.com/e5qnceqm/image/upload/v1793852632/null/pvgefmmnqcob9iksombn.jpg)
+
+![](https://res.cloudinary.com/e5qnceqm/image/upload/v1793852673/null/vjgvf1qgr9h8ynuez1cs.jpg)
+
+![](https://res.cloudinary.com/e5qnceqm/image/upload/v1793852677/null/ai8as7ymm4joryfnshcq.jpg)
+
+![](https://res.cloudinary.com/e5qnceqm/image/upload/v1793852681/null/fldu4ilbnahqueqdhq7p.jpg)
+
+![](https://res.cloudinary.com/e5qnceqm/image/upload/v1793852684/null/bfufv1qhwwn3dpgqunib.jpg)
+
+![](https://res.cloudinary.com/e5qnceqm/image/upload/v1793852688/null/hwtftmh7kb61noj1f5d5.jpg)
+
+![](https://res.cloudinary.com/e5qnceqm/image/upload/v1793852690/null/mu9ledeowkgvdijmr9up.jpg)
+
+![](https://res.cloudinary.com/e5qnceqm/image/upload/v1793852695/null/cpaqvi0p1sgzuxtlcv3n.jpg)
+
+
+
+![](https://res.cloudinary.com/e5qnceqm/image/upload/v1793852759/null/gpqfu1ebto4bth6fdro1.jpg)
