@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home Page.md","permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-11-04T23:29:52.293-06:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Home Page.md","permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-11-05T18:57:56.125-06:00","dg-note-properties":{}}
 ---
 
 #  Welcome to Enlumi's Garden
@@ -40,4 +40,3 @@ When I'm not studying, working, or tinkering with servers, I'm usually building,
   - [[enlumis-garden/Showcases/General Grievous\|General Grievous]]
   - [[enlumis-garden/Showcases/Grievious on Wheelbike\|Grievious on Wheelbike]]
   - [[enlumis-garden/Showcases/Darth Maul\|Darth Maul]]
-  - [[enlumis-garden/Showcases/Cad Bane\|Cad Bane]]
